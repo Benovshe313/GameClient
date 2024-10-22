@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\GameClient\GameClient\bin\Debug\net8.0\GameClient.exe
+C:\Users\User\source\repos\GameClient\GameClient\bin\Debug\net8.0\GameClient.deps.json
+C:\Users\User\source\repos\GameClient\GameClient\bin\Debug\net8.0\GameClient.runtimeconfig.json
+C:\Users\User\source\repos\GameClient\GameClient\bin\Debug\net8.0\GameClient.dll
+C:\Users\User\source\repos\GameClient\GameClient\bin\Debug\net8.0\GameClient.pdb
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\GameClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\GameClient.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\GameClient.AssemblyInfo.cs
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\GameClient.dll
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\refint\GameClient.dll
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\GameClient.pdb
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\GameClient.genruntimeconfig.cache
+C:\Users\User\source\repos\GameClient\GameClient\obj\Debug\net8.0\ref\GameClient.dll
